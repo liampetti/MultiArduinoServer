@@ -1,4 +1,4 @@
-#MultiArduinoServer
+# MultiArduinoServer
 Multiple serial device listener for Arduino projects.
 
 Based on the Arduino and Java RXTX Sample Code found at http://playground.arduino.cc/Interfacing/Java
@@ -11,7 +11,7 @@ Lehrstuhl für Strömungsmechanik,
 Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
 
 
-#Interface and Usage
+# Interface and Usage
 A command line interface can be used to connect with multiple serial devices, also works with any device that sends output to terminal:
 
 * -linux		  
@@ -28,16 +28,16 @@ For example,  a multiple device listener for one Arduino and a separate terminal
 Commands can be sent to a device using "command_devicename.txt"
 
 
-#Dependencies
+# Dependencies
 * Requires the RXTX Java Library found at http://rxtx.qbang.org/wiki/index.php/Main_Page
 
 
-#Credits
+# Credits
 
 The Arduino forums and community at https://www.arduino.cc/
 
 
-#License
+# License
 >Copyright 2016 Liam Pettigrew
 >
 > Licensed under the Apache License, Version 2.0 (the "License");
